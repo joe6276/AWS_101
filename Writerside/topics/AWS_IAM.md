@@ -99,3 +99,11 @@ So they can have the email and password but if they dont have a code then they c
 
 
 
+## Organizations
+Organizations help manage multiple AWS accounts
+Organizational units (OUs) allow you to group accounts with similar business or security
+requirements 
+
+Service Control Policies (SCPs) restrict what an account can do
+- SCPs can be applied to individual accounts or OUs
+- When applied to OUs, all AWS accounts within the OU inherit the policies
