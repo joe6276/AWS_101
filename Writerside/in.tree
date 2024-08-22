@@ -12,4 +12,7 @@
     <toc-element topic="AWS_Introduction.md"/>
     <toc-element topic="AWS_ Economics_Model_Of_AWS.md"/>
     <toc-element topic="AWS_cloud_Design.md"/>
+    <toc-element topic="AWS_Security_Old_Way.md"/>
+    <toc-element topic="AWS_security_Compliance.md"/>
+    <toc-element topic="AWS_IAM.md"/>
 </instance-profile>
