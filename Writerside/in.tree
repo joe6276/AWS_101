@@ -19,4 +19,5 @@
     <toc-element topic="AWS_Global_Infrastructure.md"/>
     <toc-element topic="AWS_Networking.md"/>
     <toc-element topic="AWS_FireWalls.md"/>
+    <toc-element topic="AWS_storage.md"/>
 </instance-profile>
