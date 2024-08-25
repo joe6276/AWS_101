@@ -21,4 +21,5 @@
     <toc-element topic="AWS_FireWalls.md"/>
     <toc-element topic="AWS_storage.md"/>
     <toc-element topic="AWS_compute_Services.md"/>
+    <toc-element topic="AWS_Lambda.md"/>
 </instance-profile>
