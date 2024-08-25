@@ -81,7 +81,7 @@ NO upfront payment or long-term commitment
 ### Spot Pricing
 
 Amazon tries to maximize the usage of their servers. For example if they have a machine with 64GB and the EC2
-instances running inside the machine only use 20 GB then 20GB is idle.
+instances running inside the machine only use 20 GB then 44GB is idle.
 ![image_88.png](image_88.png)
 Instead of it being idle, Amazon offers spare compute capacity at discounted rates
 Spot instances are recommended for:

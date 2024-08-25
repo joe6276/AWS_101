@@ -15,7 +15,7 @@ and AWs will manage the underlying infrastructure like starting a server and run
 Lambda is AWS' serverless offering:
 - AWS manages the server maintenance,scaling, capacity provisioning and logging.
 
-But serverless , does that mean there is no servers>
+But serverless , does that mean there is no servers?
 
 ## Serverless
 
@@ -23,7 +23,7 @@ No, to run and application there will always need to be a  server but with Lambd
 you just upload your code and then AWS will manage the infrastructure.
 ![image_91.png](image_91.png)
 
-What happens ia AWS will have a Lambda service reserve pool  that contains several servers
+What happens is AWS will have a Lambda service reserve pool  that contains several servers
 and there will be an event that will be triggered for you code to run, when the event is triggered then some servers are pulled from the list of servers in the service pool
 , they will run the code and when done they will be freed and taken back to the service pool.
 
