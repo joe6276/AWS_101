@@ -25,4 +25,6 @@
     <toc-element topic="AWS_ECS_EKS.md"/>
     <toc-element topic="AWS_Database_Services.md"/>
     <toc-element topic="AWS_SQL_Database.md"/>
+    <toc-element topic="AWS_NOSQL_Datastores.md"/>
+    <toc-element topic="AWS_Databases_Summary.md"/>
 </instance-profile>
