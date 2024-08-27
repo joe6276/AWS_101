@@ -28,4 +28,5 @@
     <toc-element topic="AWS_Core_Services.md"/>
     <toc-element topic="AWS_Migration_Services.md"/>
     <toc-element topic="AWS_MAnagement_Services.md"/>
+    <toc-element topic="AWS_AI_ML.md"/>
 </instance-profile>
