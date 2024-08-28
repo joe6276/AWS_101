@@ -35,4 +35,11 @@
     <toc-element topic="AWS_End_user_CS.md"/>
     <toc-element topic="AWS_frontend_Mobile.md"/>
     <toc-element topic="AWS_IOT.md"/>
+    <toc-element topic="AWS_Billing.md"/>
+    <toc-element topic="AWS_EC2_Billing.md"/>
+    <toc-element topic="AWS_RDS.md"/>
+    <toc-element topic="AWS_VPC.md"/>
+    <toc-element topic="AWS_lambda_Pricing.md"/>
+    <toc-element topic="AWS_billing_tools.md"/>
+    <toc-element topic="AWS_support.md"/>
 </instance-profile>
